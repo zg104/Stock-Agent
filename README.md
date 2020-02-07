@@ -1,2 +1,3 @@
-# Machine-Learning
-# stochastic-simulation
+# Stock Agent
+
+This is something about the how 
